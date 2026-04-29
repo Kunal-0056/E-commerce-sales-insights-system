@@ -15,7 +15,7 @@ A full-stack data engineering and analytics solution that transforms raw e-comme
 * **Tools:** DBeaver for database management.
 
 ## 📸 Dashboard Preview
-![Sales Dashboard](<screenshot.png>)
+![Sales Dashboard](<screenshot.png.png>)
 
 ## 📁 Repository Structure
 * `dashboard.py`: The Python application for the interactive UI.
